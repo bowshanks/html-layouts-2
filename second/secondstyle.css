@@ -10,6 +10,35 @@ header {
   background: white;
   margin-bottom: 40px;
 }
+.header-text {
+  width: 90%;
+  height: 20vh;
+  margin: auto;
+}
+.header-buttons {
+  width: 90%;
+  height: 15vh;
+  margin: auto;
+  padding-top: calc(7.5vh - 25px);
+}
+.button {
+  width: 175px;
+  height: 50px;
+  display: inline-block;
+  margin: 0px 15px 0px 0px;
+  text-align: center;
+  color: white;
+  font-family: Arial;
+  font-size: 20px;
+  padding-top: 15px;
+}
+.b-l {
+  background: red;
+}
+.b-r {
+  background: violet;
+
+}
 main {
   width: 100%;
   height: 55vh;
